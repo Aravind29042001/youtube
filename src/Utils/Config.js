@@ -1,0 +1,2 @@
+export const api="AIzaSyCBXtKnmTjMPov89M0uM51BabN1si3Nmbk"
+export const singlevideo=" https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=TBoICG3eS-Ukey=AIzaSyCBXtKnmTjMPov89M0uM51BabN1si3Nmbk"
